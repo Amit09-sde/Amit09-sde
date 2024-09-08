@@ -1,23 +1,16 @@
-## Hi there 👋
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHWv9Ymeu0ZPQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719997682165?e=1731542400&v=beta&t=7X-x3QIO1R-FA_w6nE7SzTpWADm9bKbpMHG11k-90WM)
-
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit09-sde&show_icons=true&theme=radical)
-
-
-
-
 # Hi there, I'm Amit 👋
 
 I'm a **Flutter Developer**, **Software Engineer**, and **Tech Enthusiast** passionate about creating cross-platform mobile apps with clean, efficient code. With a strong background in both development and system management, I enjoy solving real-world problems through technology.
 
-![Profile Banner](https://yourbannerimageurl.com)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHWv9Ymeu0ZPQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719997682165?e=1731542400&v=beta&t=7X-x3QIO1R-FA_w6nE7SzTpWADm9bKbpMHG11k-90WM)
+
 
 ## 🚀 About Me
 
 - 🔭 Currently working at **TSIM Communication Services Pvt. Ltd.** as a **Flutter Developer**, building the **Instasim** app for seamless eSIM activation.
 - 🌱 Continuously enhancing my skills in **Flutter**, **Dart**, and **backend development** using **PostgreSQL**.
 - 🏆 Delivered several high-impact projects in mobile app development and system automation.
-- 📫 How to reach me: [amit09sde@example.com](mailto:amit09sde@example.com)
+- 📫 How to reach me: [amit.09.sde@gmail.com](mailto:amit.09.sde@gmail.com)
 
 ## 💼 Experience
 
@@ -74,8 +67,8 @@ I'm a **Flutter Developer**, **Software Engineer**, and **Tech Enthusiast** pass
 
 ## ✨ Featured Projects
 
-- [**Instasim**](https://github.com/Amit09-sde/Instasim) – A mobile app for travelers to purchase and activate eSIM cards seamlessly.
-- [**Warmbiz**](https://github.com/Amit09-sde/Warmbiz) – Business networking app built with Flutter and Python.
+- [**Instasim**](https://mail.tsim.mobi/tsim/instasim.py) – A mobile app for travelers to purchase and activate eSIM cards seamlessly.
+- [**Warmbiz**](https://play.google.com/store/apps/details?id=com.warmconnect.warmbiz) – Business networking app built with Flutter and Python.
 
 ## 🌟 Achievements
 
@@ -84,7 +77,7 @@ I'm a **Flutter Developer**, **Software Engineer**, and **Tech Enthusiast** pass
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Amit09-sde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kushwaha-sde/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amit09_sde)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://amit09-sde.github.io/portfolio)
 
@@ -94,6 +87,6 @@ I'm a **Flutter Developer**, **Software Engineer**, and **Tech Enthusiast** pass
 
 ## 📚 Certifications
 
-- [Responsive Web Design](https://link-to-certification.com)
-- [Python Programming (HackerRank)](https://link-to-certification.com)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/fcc2e9417e8-43d1-4dc7-9c60-e007b56b8850/responsive-web-design)
+- [Python Programming (HackerRank)](https://www.hackerrank.com/certificates/4d9a86861211)
 
