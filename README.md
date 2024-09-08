@@ -8,24 +8,42 @@
 
 # Hi there, I'm Amit 👋
 
-I'm a **Flutter Developer**, **Software Engineer**, and a **Tech Enthusiast** passionate about building cross-platform apps and exploring new technologies.
+I'm a **Flutter Developer**, **Software Engineer**, and **Tech Enthusiast** passionate about creating cross-platform mobile apps with clean, efficient code. With a strong background in both development and system management, I enjoy solving real-world problems through technology.
 
 ![Profile Banner](https://yourbannerimageurl.com)
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on mobile app development using **Flutter**.
-- 🌱 I’m constantly learning and improving my skills in **Dart**, **Firebase**, and **backend integration**.
-- 💬 Ask me about **Flutter**, **mobile development**, and **UI/UX**.
+- 🔭 Currently working at **TSIM Communication Services Pvt. Ltd.** as a **Flutter Developer**, building the **Instasim** app for seamless eSIM activation.
+- 🌱 Continuously enhancing my skills in **Flutter**, **Dart**, and **backend development** using **PostgreSQL**.
+- 🏆 Delivered several high-impact projects in mobile app development and system automation.
 - 📫 How to reach me: [amit09sde@example.com](mailto:amit09sde@example.com)
+
+## 💼 Experience
+
+**Flutter Developer** – *TSIM Communication Services Pvt. Ltd.*  
+*Jan 2024 - Present*  
+- Developed **Instasim**, a mobile app for seamless eSIM purchase and activation.
+- Managed backend operations using **PostgreSQL** and integrated **APIs** with **Postman**.
+- Designed and implemented intuitive **UI/UX** for an enhanced user experience.
+
+**Software Developer Engineer** – *WarmConnect Internet Services Pvt. Ltd.*  
+*June 2023 – Jan 2024*  
+- Built the **Warmbiz** app using **Flutter** and **Python**.
+- Worked on **CGI Scripting** in **C/C++** and **Python** to automate backend processes.
+
+**SAP BASIS Consultant** – *LTIMINDTREE*  
+*June 2021 – June 2023*  
+- Automated system monitoring processes with **Python**, leading to improved efficiency.
+- Migrated and transferred over 10TB of data between remote servers.
 
 ## 🔧 Technologies & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -38,9 +56,13 @@ I'm a **Flutter Developer**, **Software Engineer**, and a **Tech Enthusiast** pa
 
 ## ✨ Featured Projects
 
-- [**MyPortfolio**](https://github.com/Amit09-sde/MyPortfolio) – Flutter portfolio with cool animations and smooth UI/UX.
-- [**Expense Tracker**](https://github.com/Amit09-sde/ExpenseTracker) – A cross-platform app to manage your daily expenses.
-- [**WeatherApp**](https://github.com/Amit09-sde/WeatherApp) – A weather app made using Flutter and API integration.
+- [**Instasim**](https://github.com/Amit09-sde/Instasim) – A mobile app for travelers to purchase and activate eSIM cards seamlessly.
+- [**Warmbiz**](https://github.com/Amit09-sde/Warmbiz) – Business networking app built with Flutter and Python.
+
+## 🌟 Achievements
+
+- 🏅 **3-star coder** on CodeChef.
+- 🏅 Presented a **research paper** on a machine learning model for COVID-19 prediction at the Darwin 2020 International Conference.
 
 ## 🌐 Connect with Me
 
@@ -52,25 +74,8 @@ I'm a **Flutter Developer**, **Software Engineer**, and a **Tech Enthusiast** pa
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Amit09-sde.Amit09-sde)
 
-## 📚 Recent Blog Posts
+## 📚 Certifications
 
-<!-- BLOG-POST-LIST:START -->
-- [5 Tips for Efficient Flutter Development](https://amit09sde.blog.com/5-tips-flutter)
-- [Understanding State Management in Flutter](https://amit09sde.blog.com/state-management)
-<!-- BLOG-POST-LIST:END -->
+- [Responsive Web Design](https://link-to-certification.com)
+- [Python Programming (HackerRank)](https://link-to-certification.com)
 
-
-<!--
-**Amit09-sde/Amit09-sde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
