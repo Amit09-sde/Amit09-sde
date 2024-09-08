@@ -25,10 +25,10 @@ I'm a **Flutter Developer**, **Software Engineer**, and **Tech Enthusiast** pass
 - Built the **Warmbiz** app using **Flutter** and **Python**.
 - Worked on **CGI Scripting** in **C/C++** and **Python** to automate backend processes.
 
-**SAP BASIS Consultant** – *LTIMINDTREE*  
+**Associate Software Engineer** – *LTIMINDTREE*  
 *June 2021 – June 2023*  
 - Automated system monitoring processes with **Python**, leading to improved efficiency.
-- Migrated and transferred over 10TB of data between remote servers.
+- Created Script to Migrate over 10TB of data between remote servers.
 
 ## 🛠 Skills
 
