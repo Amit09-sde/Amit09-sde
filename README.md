@@ -89,4 +89,5 @@ I'm a **Flutter Developer**, **Software Engineer**, and **Tech Enthusiast** pass
 
 - [Responsive Web Design](https://www.freecodecamp.org/certification/fcc2e9417e8-43d1-4dc7-9c60-e007b56b8850/responsive-web-design)
 - [Python Programming (HackerRank)](https://www.hackerrank.com/certificates/4d9a86861211)
+- [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/certificate/UC-362cefec-4683-46a0-9106-020b490ef0e7/)
 
